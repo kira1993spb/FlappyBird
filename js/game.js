@@ -51,6 +51,9 @@ var score = 0;
 
 var xPos = 10;
 var yPos = 150;
+
+// гравитация
+
 var grav = 1.5;
 
 
